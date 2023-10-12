@@ -12,7 +12,7 @@ public class FooterTest extends BaseTest {
     @Test
     public static void testFooterCategoryPage() {
         driver.get(Urls.demoPageUrl);
-        Assert.fail("Demo taking screenshot when test is failed");
+//        Assert.fail("Demo taking screenshot when test is failed");
         FooterTestFlow footerTestFlow = new FooterTestFlow(driver);
         footerTestFlow.verifyTopMenuCatComponent();
     }

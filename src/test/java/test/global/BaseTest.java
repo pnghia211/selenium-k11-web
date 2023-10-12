@@ -56,7 +56,6 @@ public class BaseTest {
 
             // 4. Save and attach to allure reporter
             try {
-
                 // 4.1 Save
                 String fileLocation = System.getProperty("user.dir") + "/screenshots/" + fileName;
                 FileUtils.copyFile(screenshotBase64Date, new File(fileLocation));
