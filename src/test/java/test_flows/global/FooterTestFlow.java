@@ -38,7 +38,7 @@ public class FooterTestFlow {
             Assert.fail("[ERR] Main category is empty");
         }
 
-        MainCatComp randomMainCatComp = mainCatComps.get(3);
+        MainCatComp randomMainCatComp = mainCatComps.get(new SecureRandom().nextInt(mainCatComps.size()));
         String randomCatHref = randomMainCatComp.getMainHref().getAttribute("href");
         System.out.println(randomCatHref);
         // Get sub list

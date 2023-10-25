@@ -1,0 +1,23 @@
+[
+  {
+    "processorType": "2.2GHz",
+    "ram": "2GB",
+    "hdd": "320 GB",
+    "os": "Windows 7",
+    "software": "Acrobat Reader"
+  },
+  {
+    "processorType": "2.5GHz",
+    "ram": "4GB",
+    "hdd": "400 GB",
+    "os": "Windows 10",
+    "software": "Microsoft Office"
+  },
+  {
+    "processorType": "2.2GHz",
+    "ram": "8GB",
+    "hdd": "320 GB",
+    "os": "Windows 7",
+    "software": "Total Commander"
+  }
+]
