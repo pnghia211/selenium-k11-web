@@ -58,7 +58,7 @@ public class DriverFactory {
                 case safari -> desiredCapabilities.setBrowserName(BrowserType.safari.getName());
             }
             try {
-                String hub = "http://192.168.1.80:4444/wd/hub";
+                String hub = "http://localhost:4444/wd/hub";
                 driver = new RemoteWebDriver(new URI(hub).toURL(), desiredCapabilities);
             } catch (Exception e) {
                 e.printStackTrace();

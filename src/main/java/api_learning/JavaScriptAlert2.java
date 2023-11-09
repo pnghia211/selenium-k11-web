@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import url.Urls;
 
-import java.sql.Driver;
 import java.time.Duration;
 
 public class JavaScriptAlert2 implements Urls {

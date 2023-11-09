@@ -2,9 +2,7 @@ package pom_tests;
 
 import driver.DriverFactory;
 import models.pages.LoginPageMod01;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 
 public class LoginTestMod01 {
 

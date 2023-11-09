@@ -134,7 +134,7 @@ public class OrderComputerFlow<T extends ComputerEssentialComponent> {
     }
 
     public void inputBillingAddress() {
-        String defaultUserCheckoutJSONLoc = "/src/test/java/test_data/DefaultCheckoutUser.json";
+        String defaultUserCheckoutJSONLoc = "/src/main/java/test_data/DefaultCheckoutUser.json";
         userDataObject = BuilderDataObject.buildDataObject(defaultUserCheckoutJSONLoc, UserDataObject.class);
         BillingAddressComponent billingAddressComp = new CheckOutPage(driver).billingAddressComp();
         billingAddressComp.selectNewAddress()
@@ -224,7 +224,7 @@ public class OrderComputerFlow<T extends ComputerEssentialComponent> {
     }
 
     public void verifyBillingAddress() {
-        String defaultUserCheckoutJSONLoc = "/src/test/java/test_data/DefaultCheckoutUser.json";
+        String defaultUserCheckoutJSONLoc = "/src/main/java/test_data/DefaultCheckoutUser.json";
         userDataObject = BuilderDataObject.buildDataObject(defaultUserCheckoutJSONLoc, UserDataObject.class);
         ConfirmOrderComponent confirmOrderComp = new CheckOutPage(driver).confirmOrderComp();
         String fullName = userDataObject.getFirstName() + " " + userDataObject.getLastName();

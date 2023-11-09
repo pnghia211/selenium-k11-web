@@ -2,9 +2,7 @@ package pom_tests;
 
 import driver.DriverFactory;
 import models.components.LoginFormComponents;
-import models.pages.LoginPageMod02;
 import models.pages.LoginPageMod03;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import url.Urls;
 

@@ -7,7 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import url.Urls;
 
-import javax.swing.*;
 import java.util.List;
 
 public class MouseHoverAndNarrowDown implements Urls {

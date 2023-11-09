@@ -10,7 +10,7 @@ public class TestGSON {
     }
 
     private static void testDataBuilder() {
-        String fileLocation = "/src/test/java/test_data/computer/StandardComputerDataList.json";
+        String fileLocation = "/src/main/java/test_data/computer/StandardComputerDataList.json";
     }
 
 

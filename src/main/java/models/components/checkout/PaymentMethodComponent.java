@@ -2,13 +2,10 @@ package models.components.checkout;
 
 import models.components.Component;
 import models.components.ComponentCssSelector;
-import models.pages.CheckOutPage;
-import org.checkerframework.checker.units.qual.C;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import test_data.PaymentMethod;
 
 @ComponentCssSelector("#checkout-step-payment-method")
 public class PaymentMethodComponent extends Component {

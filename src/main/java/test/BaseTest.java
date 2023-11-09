@@ -1,4 +1,4 @@
-package test.global;
+package test;
 
 import driver.DriverFactory;
 import io.qameta.allure.Allure;

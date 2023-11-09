@@ -4,7 +4,6 @@ import models.components.global.footer.FooterColumnComponent;
 import models.components.global.footer.FooterComponent;
 import models.components.global.header.TopMenuComponent;
 import models.pages.BasePage;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;

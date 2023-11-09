@@ -2,9 +2,8 @@ package test.footer;
 
 import models.components.global.footer.FooterColumnComponent;
 import org.openqa.selenium.WebDriver;
-import org.testng.Assert;
 import org.testng.annotations.Test;
-import test.global.BaseTest;
+import test.BaseTest;
 import test_flows.global.FooterTestFlow;
 import url.Urls;
 

@@ -1,9 +1,7 @@
 package models.pages;
 
-import driver.DriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import pom_tests.LoginTestMod02;
 
 public class LoginPageMod02 {
 

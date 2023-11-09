@@ -4,7 +4,7 @@ import models.components.order.CheapComputerComponent;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import test.global.BaseTest;
+import test.BaseTest;
 import test_data.BuilderDataObject;
 import test_data.CreditCard;
 import test_data.PaymentMethod;
@@ -35,7 +35,7 @@ public class BuyingCheapComputerTest extends BaseTest implements Urls {
 
     @DataProvider
     public ComputerData[] computerData () {
-        String fileLoc = "/src/test/java/test_data/computer/CheapComputerDataList.json";
+        String fileLoc = "/src/main/java/test_data/computer/CheapComputerDataList.json";
         return BuilderDataObject.buildDataObject(fileLoc,ComputerData[].class);
     }
 
