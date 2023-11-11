@@ -2,14 +2,14 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-11T11:04:48 ICT" name="Regression" finished-at="2023-11-11T11:05:35 ICT" duration-ms="46975">
+  <suite started-at="2023-11-11T16:16:41 ICT" name="Regression" finished-at="2023-11-11T16:17:28 ICT" duration-ms="46317">
     <groups>
     </groups>
-    <test started-at="2023-11-11T11:04:48 ICT" name="Group 3" finished-at="2023-11-11T11:04:48 ICT" duration-ms="17">
+    <test started-at="2023-11-11T16:16:41 ICT" name="Group 3" finished-at="2023-11-11T16:16:42 ICT" duration-ms="15">
     </test> <!-- Group 3 -->
-    <test started-at="2023-11-11T11:04:48 ICT" name="Group 4" finished-at="2023-11-11T11:04:55 ICT" duration-ms="7066">
+    <test started-at="2023-11-11T16:16:41 ICT" name="Group 4" finished-at="2023-11-11T16:16:49 ICT" duration-ms="7656">
       <class name="test.footer.FooterTest">
-        <test-method is-config="true" signature="initBrowserSession(java.lang.String)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:48 ICT" name="initBrowserSession" description="Init browser session" finished-at="2023-11-11T11:04:48 ICT" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="initBrowserSession(java.lang.String)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:42 ICT" name="initBrowserSession" description="Init browser session" finished-at="2023-11-11T16:16:42 ICT" duration-ms="16" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,11 +20,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowserSession -->
-        <test-method signature="testFooterCategoryPage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:48 ICT" name="testFooterCategoryPage" finished-at="2023-11-11T11:04:54 ICT" duration-ms="5993" status="PASS">
+        <test-method signature="testFooterCategoryPage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:42 ICT" name="testFooterCategoryPage" finished-at="2023-11-11T16:16:48 ICT" duration-ms="6467" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFooterCategoryPage -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:54 ICT" name="captureScreenshot" finished-at="2023-11-11T11:04:54 ICT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:48 ICT" name="captureScreenshot" finished-at="2023-11-11T16:16:48 ICT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,11 +35,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method signature="testFooterHomePage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:54 ICT" name="testFooterHomePage" finished-at="2023-11-11T11:04:55 ICT" duration-ms="940" status="PASS">
+        <test-method signature="testFooterHomePage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:48 ICT" name="testFooterHomePage" finished-at="2023-11-11T16:16:49 ICT" duration-ms="1041" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFooterHomePage -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:55 ICT" name="captureScreenshot" finished-at="2023-11-11T11:04:55 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:49 ICT" name="captureScreenshot" finished-at="2023-11-11T16:16:49 ICT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -50,11 +50,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method signature="testFooterLoginPage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:55 ICT" name="testFooterLoginPage" finished-at="2023-11-11T11:04:55 ICT" duration-ms="0" status="PASS">
+        <test-method signature="testFooterLoginPage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:49 ICT" name="testFooterLoginPage" finished-at="2023-11-11T16:16:49 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFooterLoginPage -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:55 ICT" name="captureScreenshot" finished-at="2023-11-11T11:04:55 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:49 ICT" name="captureScreenshot" finished-at="2023-11-11T16:16:49 ICT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,11 +65,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method signature="testFooterRegisterPage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:55 ICT" name="testFooterRegisterPage" finished-at="2023-11-11T11:04:55 ICT" duration-ms="1" status="PASS">
+        <test-method signature="testFooterRegisterPage()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:49 ICT" name="testFooterRegisterPage" finished-at="2023-11-11T16:16:49 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFooterRegisterPage -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:55 ICT" name="captureScreenshot" finished-at="2023-11-11T11:04:55 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:49 ICT" name="captureScreenshot" finished-at="2023-11-11T16:16:49 ICT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -80,15 +80,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method is-config="true" signature="closeBrowserSession()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T11:04:55 ICT" name="closeBrowserSession" finished-at="2023-11-11T11:04:55 ICT" duration-ms="61" status="PASS">
+        <test-method is-config="true" signature="closeBrowserSession()[pri:0, instance:test.footer.FooterTest@77eca502]" started-at="2023-11-11T16:16:49 ICT" name="closeBrowserSession" finished-at="2023-11-11T16:16:49 ICT" duration-ms="78" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowserSession -->
       </class> <!-- test.footer.FooterTest -->
     </test> <!-- Group 4 -->
-    <test started-at="2023-11-11T11:04:48 ICT" name="Group 2" finished-at="2023-11-11T11:05:33 ICT" duration-ms="44696">
+    <test started-at="2023-11-11T16:16:41 ICT" name="Group 2" finished-at="2023-11-11T16:17:28 ICT" duration-ms="46022">
       <class name="test.computer.BuyingStandardComputerTest">
-        <test-method is-config="true" signature="initBrowserSession(java.lang.String)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:04:48 ICT" name="initBrowserSession" description="Init browser session" finished-at="2023-11-11T11:04:48 ICT" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="initBrowserSession(java.lang.String)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:16:42 ICT" name="initBrowserSession" description="Init browser session" finished-at="2023-11-11T16:16:42 ICT" duration-ms="16" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,18 +99,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowserSession -->
-        <test-method signature="testStandardComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:04:48 ICT" name="testStandardComputerBuying" data-provider="computerData" finished-at="2023-11-11T11:05:06 ICT" duration-ms="17707" status="PASS">
+        <test-method signature="testStandardComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:16:42 ICT" name="testStandardComputerBuying" data-provider="computerData" finished-at="2023-11-11T16:17:00 ICT" duration-ms="18000" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[test_data.computer.ComputerData@5eff6f63]]>
+                <![CDATA[test_data.computer.ComputerData@5f4064f9]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testStandardComputerBuying -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:05:06 ICT" name="captureScreenshot" finished-at="2023-11-11T11:05:06 ICT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:17:00 ICT" name="captureScreenshot" finished-at="2023-11-11T16:17:00 ICT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -121,29 +121,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method signature="testStandardComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:05:06 ICT" name="testStandardComputerBuying" data-provider="computerData" finished-at="2023-11-11T11:05:19 ICT" duration-ms="13366" status="PASS">
+        <test-method signature="testStandardComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:17:00 ICT" name="testStandardComputerBuying" data-provider="computerData" finished-at="2023-11-11T16:17:14 ICT" duration-ms="13921" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[test_data.computer.ComputerData@149eeb95]]>
+                <![CDATA[test_data.computer.ComputerData@38f8e21b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testStandardComputerBuying -->
-        <test-method signature="testStandardComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:05:19 ICT" name="testStandardComputerBuying" data-provider="computerData" finished-at="2023-11-11T11:05:33 ICT" duration-ms="13445" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[test_data.computer.ComputerData@716942]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testStandardComputerBuying -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:05:19 ICT" name="captureScreenshot" finished-at="2023-11-11T11:05:19 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:17:14 ICT" name="captureScreenshot" finished-at="2023-11-11T16:17:14 ICT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -154,7 +143,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:05:33 ICT" name="captureScreenshot" finished-at="2023-11-11T11:05:33 ICT" duration-ms="2" status="PASS">
+        <test-method signature="testStandardComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:17:14 ICT" name="testStandardComputerBuying" data-provider="computerData" finished-at="2023-11-11T16:17:27 ICT" duration-ms="13922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test_data.computer.ComputerData@7dca9710]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStandardComputerBuying -->
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:17:27 ICT" name="captureScreenshot" finished-at="2023-11-11T16:17:27 ICT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -165,15 +165,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method is-config="true" signature="closeBrowserSession()[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T11:05:33 ICT" name="closeBrowserSession" finished-at="2023-11-11T11:05:33 ICT" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="closeBrowserSession()[pri:0, instance:test.computer.BuyingStandardComputerTest@343570b7]" started-at="2023-11-11T16:17:27 ICT" name="closeBrowserSession" finished-at="2023-11-11T16:17:28 ICT" duration-ms="88" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowserSession -->
       </class> <!-- test.computer.BuyingStandardComputerTest -->
     </test> <!-- Group 2 -->
-    <test started-at="2023-11-11T11:04:48 ICT" name="Group 1" finished-at="2023-11-11T11:05:35 ICT" duration-ms="46975">
+    <test started-at="2023-11-11T16:16:41 ICT" name="Group 1" finished-at="2023-11-11T16:17:28 ICT" duration-ms="46317">
       <class name="test.computer.BuyingCheapComputerTest">
-        <test-method is-config="true" signature="initBrowserSession(java.lang.String)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:04:48 ICT" name="initBrowserSession" description="Init browser session" finished-at="2023-11-11T11:04:48 ICT" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="initBrowserSession(java.lang.String)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:16:42 ICT" name="initBrowserSession" description="Init browser session" finished-at="2023-11-11T16:16:42 ICT" duration-ms="17" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -184,18 +184,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowserSession -->
-        <test-method signature="testCheapComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:04:48 ICT" name="testCheapComputerBuying" data-provider="computerData" finished-at="2023-11-11T11:05:05 ICT" duration-ms="16601" status="PASS">
+        <test-method signature="testCheapComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:16:42 ICT" name="testCheapComputerBuying" data-provider="computerData" finished-at="2023-11-11T16:16:59 ICT" duration-ms="17765" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[test_data.computer.ComputerData@76ccfa71]]>
+                <![CDATA[test_data.computer.ComputerData@1e9a734f]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCheapComputerBuying -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:05:05 ICT" name="captureScreenshot" finished-at="2023-11-11T11:05:05 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:16:59 ICT" name="captureScreenshot" finished-at="2023-11-11T16:16:59 ICT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -206,29 +206,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method signature="testCheapComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:05:05 ICT" name="testCheapComputerBuying" data-provider="computerData" finished-at="2023-11-11T11:05:21 ICT" duration-ms="16130" status="PASS">
+        <test-method signature="testCheapComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:16:59 ICT" name="testCheapComputerBuying" data-provider="computerData" finished-at="2023-11-11T16:17:14 ICT" duration-ms="14385" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[test_data.computer.ComputerData@719c228d]]>
+                <![CDATA[test_data.computer.ComputerData@7375ea1f]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCheapComputerBuying -->
-        <test-method signature="testCheapComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:05:21 ICT" name="testCheapComputerBuying" data-provider="computerData" finished-at="2023-11-11T11:05:35 ICT" duration-ms="14054" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[test_data.computer.ComputerData@382f73e7]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCheapComputerBuying -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:05:21 ICT" name="captureScreenshot" finished-at="2023-11-11T11:05:21 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:17:14 ICT" name="captureScreenshot" finished-at="2023-11-11T16:17:14 ICT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -239,7 +228,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:05:35 ICT" name="captureScreenshot" finished-at="2023-11-11T11:05:35 ICT" duration-ms="0" status="PASS">
+        <test-method signature="testCheapComputerBuying(test_data.computer.ComputerData)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:17:14 ICT" name="testCheapComputerBuying" data-provider="computerData" finished-at="2023-11-11T16:17:28 ICT" duration-ms="13991" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test_data.computer.ComputerData@236af2af]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheapComputerBuying -->
+        <test-method is-config="true" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:17:28 ICT" name="captureScreenshot" finished-at="2023-11-11T16:17:28 ICT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -250,7 +250,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method is-config="true" signature="closeBrowserSession()[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T11:05:35 ICT" name="closeBrowserSession" finished-at="2023-11-11T11:05:35 ICT" duration-ms="95" status="PASS">
+        <test-method is-config="true" signature="closeBrowserSession()[pri:0, instance:test.computer.BuyingCheapComputerTest@62e7f11d]" started-at="2023-11-11T16:17:28 ICT" name="closeBrowserSession" finished-at="2023-11-11T16:17:28 ICT" duration-ms="85" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowserSession -->
