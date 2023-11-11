@@ -28,6 +28,7 @@ public class Main {
         }
 
         // Get browser
+//        String browser = System.getenv("browser");
         String browser = System.getProperty("browser");
         if (browser == null) {
             throw new IllegalArgumentException("Please provide browser vie -Dbrowser");
